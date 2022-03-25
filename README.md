@@ -1,0 +1,2 @@
+# how-to-add-a-blazor-in-place-editor-to-a-blazor-webassembly-app
+A quick start Blazor project that shows how to add the Syncfusion Blazor In-Place Editor component to a Blazor WebAssembly app. This project also includes a code snippet to integrate the components like text box, dropdown list and date picker; change the modes and event actions; and how to remove the highlighted dotted lines in the In-Place Editor component.
